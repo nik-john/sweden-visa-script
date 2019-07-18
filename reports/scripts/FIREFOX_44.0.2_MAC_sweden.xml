@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="sweden"
+    errors="0" failures="0" hostname="" id="" package="scripts" skipped="0"
+    tests="1" time="25.52" timestamp="Fri, 08 Apr 2016 11:47:20 GMT">
+  
+    <testcase name="Test sweden visa status" time="25.52" assertions="13">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

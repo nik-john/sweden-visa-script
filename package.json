@@ -1,0 +1,14 @@
+{
+  "name": "sweden-visa-script",
+  "version": "1.0.0",
+  "description": "Script to check for sweden visa status update",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^0.8.18"
+  }
+}
